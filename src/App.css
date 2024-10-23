@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  display: flex;
+}
+
+.map-container {
+  flex: 1;
+  margin-left: 250px; /* Adjust based on sidebar width */
+}
